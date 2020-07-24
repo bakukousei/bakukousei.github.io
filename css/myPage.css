@@ -1,0 +1,21 @@
+.p1{
+    background: url(/img/四季.jpg) no-repeat;
+}
+.p2{
+    background: url(/img/宜必思.jpg) no-repeat;
+}
+.p3{
+    background: url(/img/文华东方.jpg) no-repeat;
+}
+.p4{
+    background: url(/img/文华东方2.jpg) no-repeat;
+}
+img{
+    margin: 0 auto;
+}
+.page3{
+    text-align: center;
+    font-size: 40px;
+    line-height: 100px;
+    font-style: normal;
+}
